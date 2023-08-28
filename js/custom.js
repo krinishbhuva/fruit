@@ -50,7 +50,7 @@ $(document).ready(function(){
                   items:1
               },
               700:{
-                  items:2
+                  items:3
               },
               1000:{
                   items:4
